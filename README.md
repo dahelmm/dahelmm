@@ -14,6 +14,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
   </div>
 </div>
-*** 👨‍💻 About me:
 
+### :woman_technologist: About me: 
+- :telescope: I’m working as a Software Engineer and creating applications.
+- :zap: In my free time, I always learning and read tech articles.
+- :mailbox: How to reach me: <a href = "mailto:dahelmm@mail.ru">![Mail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Mail.ru&logoColor=white)</a>
+                             [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dahelmm)
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
+</div>
