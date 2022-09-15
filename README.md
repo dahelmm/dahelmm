@@ -21,7 +21,7 @@
 - :mailbox: How to reach me: <a href = "mailto:dahelmm@mail.ru">![Mail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Mail.ru&logoColor=white)</a>
                              [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dahelmm)
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -29,3 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dahelmm&theme=dark&border_radius=4.6)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahelmm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
