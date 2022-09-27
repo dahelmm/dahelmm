@@ -34,4 +34,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dahelmm&theme=dark&border_radius=4.6)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahelmm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dahelmm's github activity graph](https://activity-graph.herokuapp.com/graph?username=dahelmm)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dahelmm's github activity graph](https://activity-graph.herokuapp.com/graph?username=dahelmm&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
